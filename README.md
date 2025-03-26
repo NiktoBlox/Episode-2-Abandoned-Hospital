@@ -37,6 +37,6 @@ NiktoBlox完全製作,而且100%原創+原生PPT,可以畫面互動,並探險恐
 
 
 ### :white_check_mark: 下載區：
-[本地下載](https://github.com/NiktoBlox/Episode-1-Supernatural-Palace/releases/download/%E7%99%BC%E8%A1%8C%E7%89%88/Episode.1_SupernaturalPalace.pptx) | [在線遊玩](https://1drv.ms/p/c/87252f879fec2d81/EXy0EDW-seJKnJV2RKYIsGYBvQ6wJzK8cNZoB7r-OJGktw?e=moxF23)
+[本地下載](https://github.com/NiktoBlox/Episode-2-Abandoned-Hospital/releases/download/%E7%99%BC%E8%A1%8C%E7%89%88/Episode.2_AbandonedHospital.pptx) | [在線遊玩](https://1drv.ms/p/c/87252f879fec2d81/EddEHJEIhypJvGtEr4KDYmIBA4yY2-eTaCHchiaCKv4Veg?e=dgZoWW)
 > [!WARNING]
-> [在線遊玩](https://1drv.ms/p/c/87252f879fec2d81/EXy0EDW-seJKnJV2RKYIsGYBvQ6wJzK8cNZoB7r-OJGktw?e=moxF23)可能減少動畫或體驗不佳行為,請建議[本地下載](https://github.com/NiktoBlox/Episode-1-Supernatural-Palace/releases/download/%E7%99%BC%E8%A1%8C%E7%89%88/Episode.1_SupernaturalPalace.pptx)才會更好的動畫或互動體驗！
+> [在線遊玩](https://1drv.ms/p/c/87252f879fec2d81/EddEHJEIhypJvGtEr4KDYmIBA4yY2-eTaCHchiaCKv4Veg?e=dgZoWW)可能減少動畫或體驗不佳行為,請建議[本地下載](https://github.com/NiktoBlox/Episode-2-Abandoned-Hospital/releases/download/%E7%99%BC%E8%A1%8C%E7%89%88/Episode.2_AbandonedHospital.pptx)才會更好的動畫或互動體驗！
