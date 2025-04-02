@@ -41,4 +41,6 @@ NiktoBlox完全製作,而且100%原創+原生PPT,可以畫面互動,並探險恐
 > [!WARNING]
 > [在線遊玩](https://1drv.ms/p/c/87252f879fec2d81/EddEHJEIhypJvGtEr4KDYmIBA4yY2-eTaCHchiaCKv4Veg?e=dgZoWW)可能減少動畫或體驗不佳行為,請建議[本地下載](https://github.com/NiktoBlox/Episode-2-Abandoned-Hospital/releases/download/%E7%99%BC%E8%A1%8C%E7%89%88/Episode.2_AbandonedHospital.pptx)才會更好的動畫或互動體驗！
 ***
-歡迎討論：[:lady_beetle:Bug問題](https://github.com/NiktoBlox/Episode-2-Abandoned-Hospital/discussions/categories/bug%E5%95%8F%E9%A1%8C) | [:electron:未來計劃](https://github.com/NiktoBlox/Episode-2-Abandoned-Hospital/discussions/categories/%E6%9C%AA%E4%BE%86%E8%A8%88%E5%8A%83)
+歡迎表單回報：[》請前往《](https://github.com/NiktoBlox/Supernatural-Exploration-Series/issues)
+
+支援類型：Bug回報、問題回報、未來計劃、遊戲心得及評論等
